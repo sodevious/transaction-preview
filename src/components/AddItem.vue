@@ -23,7 +23,7 @@
     data: function () {
       return {
         name: '',
-        price: 0
+        price: null
       }
     },
     mounted() {
